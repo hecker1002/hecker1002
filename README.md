@@ -31,9 +31,7 @@ Here are some of the projects I'm proud of:
 
 Feel free to connect with me on social media and explore my work:
 
-- [LinkedIn](https://www.linkedin.com/in/YourName)
-- [Twitter](https://twitter.com/YourHandle)
-- [Portfolio](https://www.yourwebsite.com)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/aryan-arya-661a12237/)
+- [Email](mailto:aryan.arya.cd.mec21@itbhu.ac.in)
 
 Looking forward to connecting with you! 👋
