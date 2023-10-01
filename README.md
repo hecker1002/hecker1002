@@ -20,7 +20,7 @@ I am quite passionate in learning about ML and AI every day alon with some softw
 
 Here are some of the projects I'm proud of:
 
-1. [Project Name](https://github.com/hecker1002/CSOC--Neural-Style-Transfer) 
+1. [Neural Style Transfer](https://github.com/hecker1002/CSOC--Neural-Style-Transfer) 
 
 
 ## Let's Connect
