@@ -1,7 +1,7 @@
 # Your Name
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-hecker1002-181717?style=flat&logo=github)](https://github.com/hecker1002)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aryan Arya-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-arya-661a12237/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-AryanArya-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-arya-661a12237/)
 <!-- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-YourWebsite-4285F4?style=flat&logo=google-chrome)](https://www.yourwebsite.com) -->
 
 ## About Me
