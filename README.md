@@ -13,7 +13,9 @@ I am quite passionate in learning about ML and AI every day alon with some softw
 - 📚 Open to collaborations in above fields .
 - 📫 How to reach me: [aryan.arya.cd.mec21@itbhu.ac.in].
 </b>
+
 ## GitHub Stats
+
 ### Jupyter Notebooks
 ![GitHub Stats - Jupyter Notebooks](https://github-readme-stats.vercel.app/api/top-langs/?username=hecker1002&layout=compact&hide=html,css&langs_count=6&theme=radical)
 
