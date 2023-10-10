@@ -14,19 +14,8 @@ I am quite passionate in learning about ML and AI every day alon with some softw
 - 📫 How to reach me: [aryan.arya.cd.mec21@itbhu.ac.in].
 </b>
 ## GitHub Stats
-
 ### Jupyter Notebooks
 ![GitHub Stats - Jupyter Notebooks](https://github-readme-stats.vercel.app/api/top-langs/?username=hecker1002&layout=compact&hide=html,css&langs_count=6&theme=radical)
-
-### Python
-![GitHub Stats - Python](https://github-readme-stats.vercel.app/api/top-langs/?username=hecker1002&layout=compact&hide=html,css,jupyter%20notebook&langs_count=6&theme=radical&card_width=270)
-
-### C++
-![GitHub Stats - C++](https://github-readme-stats.vercel.app/api/top-langs/?username=hecker1002&layout=compact&hide=html,css,jupyter%20notebook,python&langs_count=6&theme=radical&card_width=270)
-
-### JavaScript
-![GitHub Stats - JavaScript](https://github-readme-stats.vercel.app/api/top-langs/?username=hecker1002&layout=compact&hide=html,css,jupyter%20notebook,python,c%2B%2B&langs_count=6&theme=radical&card_width=270)
-
 
 ## My Projects
 
