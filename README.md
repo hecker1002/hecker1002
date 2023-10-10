@@ -8,11 +8,11 @@
 ## About Me
 
 I am quite passionate in learning about ML and AI every day alon with some software developement with major expertise in Python , C++ / C . Here's a bit more about me:
-
-- 🌱 Currently learning and growing inML and Ai .
-- 📚 Open to collaborations in Open Source.
+<b>
+- 🌱 Currently learning and growing in ML and Ai .
+- 📚 Open to collaborations in above fields .
 - 📫 How to reach me: [aryan.arya.cd.mec21@itbhu.ac.in].
-
+</b>
 ## GitHub Stats
 
 ### Jupyter Notebooks
@@ -31,7 +31,6 @@ I am quite passionate in learning about ML and AI every day alon with some softw
 ## My Projects
 
 Here are some of the projects I'm proud of:
-
 1. [Neural Style Transfer](https://github.com/hecker1002/CSOC--Neural-Style-Transfer) 
 
 
